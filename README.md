@@ -1,10 +1,10 @@
 # Quantum-Enhanced Graph Optimization for Trustworthy Multi-Agent Coordination in Digital Twin Robots
 
-## 📚 Student & Mentor Information
-- **Student**: [Jaydine Stiles, Joseph Ko]  
-- **Mentor**: [Dr. Yugyung Lee]
+## Student & Mentor Information
+- **Student** Jaydine Stiles, Joseph Ko
+- **Mentor**: Dr. Yugyung Lee
 
-## 🔍 Project Summary
+## Project Summary
 As robotic systems become increasingly central to critical applications such as autonomous delivery, search and rescue, healthcare, and manufacturing, ensuring secure and trustworthy coordination between agents is essential. These systems often use **Digital Twins (DTs)**—virtual replicas that enable real-time simulation, planning, and monitoring.
 
 This research explores how **Quantum AI**, particularly **quantum-enhanced graph optimization**, can improve multi-agent coordination by enabling:
@@ -14,7 +14,7 @@ This research explores how **Quantum AI**, particularly **quantum-enhanced graph
 
 Our goal is to increase both **operational efficiency** and **security assurance** in collaborative robotic environments.
 
-## 🛠️ Tools and Models Used
+## Tools and Models We Might Use:
 - Hugging Face Transformers (for simulation outputs and anomaly detection)
 - Python 3.10+
 - NetworkX (for graph construction and manipulation)
@@ -23,5 +23,5 @@ Our goal is to increase both **operational efficiency** and **security assurance
 - ROS / Gazebo (for simulating digital twin communication)
 - Wireshark & Scapy (for adversarial attack simulations)
 
-## 🚀 Setup Instructions
+## Setup Instructions
 - TBH
